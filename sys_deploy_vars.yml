@@ -1,0 +1,7 @@
+---
+ec2_region: us-east-2
+aws_key_name: aws-satdemo-key
+aws_ansible_machine_credential: "AWS Sat Demo Instance Key"
+ansible_demo_org: Default
+controller_host: akira
+
